@@ -1,0 +1,7 @@
+body{
+    background: white;
+    background-color:color(rgb(213, 213, 15));
+    background-image:url(img/fundo.png) ;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
