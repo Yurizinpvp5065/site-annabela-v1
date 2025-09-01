@@ -1,0 +1,14 @@
+@import url(variable.css);
+
+body{
+    background-color: #d2d2c1;
+    background-image: url(img\fundo.png);
+
+}
+ul>li {
+    display: inline;
+    text-transform: uppercase;
+    list-style-type: none;
+    color: var(--cor-menu);
+    font-family: var(--font-family-site);
+}
